@@ -1,0 +1,72 @@
+[
+    {
+        "questions": "Que-1. Which of the following are valid ways to represent a colour in CSS ?",
+        "options": [
+            "1. A valid colour name",
+            "2. RGB values",
+            "3. HEX values",
+            "4. All of the above"
+        ],
+        "Ans": 3
+    },
+    {
+        "questions": "Que-2. Which of the following is the correct way to select all h1 headers in a div element ?",
+        "options": [
+            "1. div h1",
+            "2. div-h1",
+            "3. h1",
+            "4. None of above"
+        ],
+        "Ans": 0
+    },
+    {
+        "questions": "Que-3. How can we change the background color of an element ?",
+        "options": [
+            "1. Color",
+            "2. Background color",
+            "3. Both A and B",
+            "4. None of the above"
+        ],
+        "Ans": 1
+    },
+    {
+        "questions": "Que-4. In how many ways can CSS be written in ?",
+        "options": [
+            "1.- 1",
+            "2.- 2",
+            "3.- 3",
+            "4.- 4"
+        ],
+        "Ans": 2
+    },
+    {
+        "questions": "Que-5. Which HTML tag is used to declare internal CSS ?",
+        "options": [
+            "1. ^",
+            "2. .",
+            "3. #",
+            "4. *"
+        ],
+        "Ans": 1
+    },
+    {
+        "questions": "Que-6. Which HTML tag is used to declare internal CSS ?",
+        "options": [
+            "1. <link>",
+            "2. <script>",
+            "3. <a>",
+            "4. <style>"
+        ],
+        "Ans": 3
+    },
+    {
+        "questions": "Que-7. The CSS property used to specify the transparency of an element is ?",
+        "options": [
+            "1. Opacity",
+            "2. Visivility",
+            "3. Filter",
+            "4. None of these"
+        ],
+        "Ans": 0
+    }
+]

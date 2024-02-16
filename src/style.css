@@ -1,0 +1,56 @@
+.container {
+    padding: 1px 0 20px 25px;
+    border-radius: 8px;
+    box-shadow: 0 1px 5px 1px;
+    width: 43%;
+    min-height: 300px;
+    max-height: 90%;
+    font-size: 19px;
+    margin: auto;
+    margin-top: 6%;
+}
+
+.btn {
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 7px;
+    width: 70px;
+    height: 35px;
+    background-color: rgb(218, 213, 213);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    box-shadow: 0 0 2px 0;
+    margin-right: 8%;
+    border-radius: 3px;
+    padding: 3px;
+    background-color: rgb(252, 250, 250);
+    margin-top: 10px;
+}
+p:hover{
+    font-weight: bold;
+}
+
+h2 {
+    background: linear-gradient(90deg, blue, red, blue, red, blue, red, blue, red);
+    background-clip: text;
+    color: transparent;
+}
+
+@media screen and (max-width: 568px) {
+    .container {
+        margin: auto;
+        width: 90%;
+    }
+}
+
+div .correct {
+    background-color: green;
+}
+
+div .incorrect {
+    background-color: red;
+}
