@@ -42,16 +42,6 @@
     {
         "questions": "Que-5. Which HTML tag is used to declare internal CSS ?",
         "options": [
-            "1. ^",
-            "2. .",
-            "3. #",
-            "4. *"
-        ],
-        "Ans": 1
-    },
-    {
-        "questions": "Que-6. Which HTML tag is used to declare internal CSS ?",
-        "options": [
             "1. <link>",
             "2. <script>",
             "3. <a>",
@@ -60,7 +50,7 @@
         "Ans": 3
     },
     {
-        "questions": "Que-7. The CSS property used to specify the transparency of an element is ?",
+        "questions": "Que-6. The CSS property used to specify the transparency of an element is ?",
         "options": [
             "1. Opacity",
             "2. Visivility",

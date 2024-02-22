@@ -20,7 +20,7 @@ function App() {
       return previousState + 1
     }
     )
-    if (count === 6) {
+    if (count === 5) {
       setCount(0)
     }
   }
